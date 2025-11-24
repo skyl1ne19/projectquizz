@@ -1,0 +1,349 @@
+Jednostką siły w układzie SI jest:
+Wat
+Dżul
+Niuton
+Amper
+C
+
+Wzór na przyspieszenie to:
+a = v/t
+a = v·t
+a = m/v
+a = F·m
+A
+
+Współczynnik tarcia zależy od:
+siły nacisku
+rodzaju stykających się powierzchni
+pola powierzchni styku
+prędkości ciała
+B
+
+Praca wykonana przez siłę to:
+W = F/t
+W = F·s
+W = m·v²
+W = p·t
+B
+
+Energia kinetyczna zależy od:
+masy i przyspieszenia
+masy i prędkości
+siły i drogi
+czasu i prędkości
+B
+
+Jednostką energii jest:
+W
+J
+H
+N
+B
+
+Grawitacja działa na:
+tylko ciała o dużej masie
+tylko planety
+wszystkie ciała mające masę
+wyłącznie na Ziemi
+C
+
+Prędkość światła w próżni wynosi około:
+3 000 km/s
+30 000 km/s
+300 000 km/s
+3 000 000 km/s
+C
+
+Gęstość definiuje się jako:
+masę na jednostkę objętości
+objętość na jednostkę masy
+masę razy objętość
+masę na jednostkę czasu
+A
+
+Prawo Ohma opisuje zależność:
+mocy od energii
+napięcia od pracy
+natężenia od napięcia i oporu
+oporu od długości fali
+C
+
+Wzór na moc elektryczną to:
+P = U/I
+P = U·I
+P = R·I
+P = R/U
+B
+
+Jednostką natężenia prądu jest:
+Volt
+Amper
+Om
+Tesli
+B
+
+Siła wyporu w cieczy działa:
+w dół
+w górę
+poziomo
+w losowym kierunku
+B
+
+Temperatura wrzenia wody w warunkach normalnych to:
+0°C
+50°C
+100°C
+212°C
+C
+
+Pęd to:
+iloczyn masy i przyspieszenia
+stosunek siły do drogi
+iloczyn masy i prędkości
+siła razy czas
+C
+
+Czym jest ciśnienie?
+siłą na jednostkę czasu
+pracą na jednostkę objętości
+siłą na jednostkę powierzchni
+masą na jednostkę długości
+C
+
+Fala dźwiękowa jest falą:
+poprzeczną
+podłużną
+elektromagnetyczną
+grawitacyjną
+B
+
+Jednostką częstotliwości jest:
+herc
+niuton
+lumen
+decybel
+A
+
+Zjawisko odbicia światła opisuje:
+prawo Archimedesa
+prawo Hooke’a
+prawo odbicia
+prawo Joule’a
+C
+
+Pozytywne ładunki elektryczne to:
+protony
+elektrony
+neutrony
+fotony
+A
+
+Przemiana cieczy w gaz to:
+skraplanie
+topnienie
+parowanie
+krzepnięcie
+C
+
+Pole magnetyczne wytwarza:
+każdy poruszający się ładunek
+tylko magnesy naturalne
+tylko prąd stały
+jedynie sprężone ciała
+A
+
+Prędkość obrotowa Ziemi powoduje:
+przyciąganie
+efekt Coriolisa
+tarcie statyczne
+wzrost ciśnienia
+B
+
+Źródłem energii Słońca są:
+reakcje chemiczne
+reakcje jądrowe
+wyładowania elektryczne
+reakcje grawitacyjne
+B
+
+Soczewka skupiająca ma ogniskową:
+ujemną
+dodatnią
+zerową
+zależną od oświetlenia
+B
+
+Jednostką oporu elektrycznego jest:
+Volt
+Coulomb
+Om
+Weber
+C
+
+Przyspieszenie ziemskie g wynosi około:
+1 m/s²
+4,9 m/s²
+9,8 m/s²
+12 m/s²
+C
+
+Praca siły tarcia jest zawsze:
+dodatnia
+ujemna
+równa zero
+losowa
+B
+
+Siłę ciężkości obliczamy z wzoru:
+F = m/v
+F = m·g
+F = m·a²
+F = a/g
+B
+
+Gdy ciało płynie, siła wyporu jest:
+większa od ciężaru
+równa ciężarowi
+mniejsza od ciężaru
+równa zeru
+B
+
+Kiedy mówimy o równowadze dźwigni?
+gdy ramiona są tej samej długości
+gdy siły są sobie równe
+gdy momenty sił są równe
+gdy masa jest stała
+C
+
+Promienie UV to:
+fale mechaniczne
+fale elektromagnetyczne
+fale dźwiękowe
+fale podłużne
+B
+
+Przemiana gaz–ciecz to:
+parowanie
+sublimacja
+skraplanie
+topnienie
+C
+
+Prawo Hooke’a opisuje:
+sprężystość
+tarcie
+pole elektryczne
+dyfuzję
+A
+
+Napięcie mierzymy:
+amperomierzem
+woltomierzem
+omomierzem
+dynamometrem
+B
+
+Galwanometr służy do:
+pomiaru masy
+pomiaru prądu
+pomiaru długości fali
+pomiaru temperatury
+B
+
+Jednostką indukcji magnetycznej jest:
+Niuton
+Tesla
+Henry
+Kelvin
+B
+
+Ciepło właściwe to:
+energia potrzebna do zmiany temperatury jednostki masy
+masa razy prędkość
+praca wykonana w czasie
+moc ciała nagrzanego
+A
+
+Stan nieważkości oznacza:
+większe przyspieszenie
+brak siły tarcia
+brak kontaktu podłoża
+brak odczuwania ciężaru
+D
+
+Opór elektryczny rośnie, gdy:
+rośnie pole magnetyczne
+rośnie napięcie
+rośnie długość przewodnika
+maleje temperatura
+C
+
+Która cząstka ma ładunek ujemny?
+proton
+positron
+elektron
+neutron
+C
+
+Energia potencjalna zależy od:
+masy i prędkości
+masy i wysokości
+prędkości i czasu
+siły i mocy
+B
+
+Fala elektromagnetyczna rozchodzi się:
+tylko w powietrzu
+tylko w próżni
+w każdym ośrodku i w próżni
+tylko w metalach
+C
+
+Co powoduje echo?
+załamanie
+interferencja
+odbicie dźwięku
+rezonans
+C
+
+Zjawisko fotoelektryczne polega na:
+odbiciu światła
+wybiciu elektronów z metalu
+nagrzewaniu powierzchni
+powstawaniu fal stojących
+B
+
+Jednostka mocy to:
+J
+N
+W
+C
+C
+
+Rezonans zachodzi, gdy:
+częstotliwości są takie same
+amplitudy są maksymalne
+prędkości są różne
+fazy są losowe
+A
+
+Prędkość dźwięku w powietrzu wynosi około:
+150 m/s
+340 m/s
+1200 m/s
+3000 m/s
+B
+
+Która wielkość jest skalarem?
+przyspieszenie
+siła
+masa
+pęd
+C
+
+Które zjawisko pokazuje, że światło jest falą?
+fotoefekt
+interferencja
+jonizacja
+dyfuzja
+B
